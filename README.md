@@ -50,10 +50,10 @@ To emulate a red team attack chain in a controlled environment that includes:
 
 ## 🧾 Captured Flags
 
-Each compromised host yielded one or more flags proving access or privilege level:
-Flag1: 3dc178ba131a2f5198960a3bfb97f9a7 # Initial foothold
-Flag2: 71c865fc303b928f527b9ab3a76d1a5e # Privilege escalation
-Flag3: 1af6d26bda728edb368209f6df82f716 # Domain admin compromise
+Each compromised host yielded one or more flags proving access or privilege level: 
+- Flag1: 3dc178ba131a2f5198960a3bfb97f9a7 # Initial foothold 
+- Flag2: 71c865fc303b928f527b9ab3a76d1a5e # Privilege escalation 
+- Flag3: 1af6d26bda728edb368209f6df82f716 # Domain admin compromise
 
 ## 🧬 Key Takeaways
 
